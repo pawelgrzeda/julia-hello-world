@@ -1,0 +1,7 @@
+dist: freebsd
+group: edge
+
+language: julia
+
+script:
+  - hw.jl
