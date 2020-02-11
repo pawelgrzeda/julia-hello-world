@@ -4,4 +4,4 @@ group: edge
 language: julia
 
 script:
-  - julia hw.jl
+  - julia 
